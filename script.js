@@ -34,6 +34,7 @@ function generatePassword() {
   console.log(passwordLen);
   console.log(useLower);
   console.log(useUpper);
+  console.log(usenumbers)
   console.log (useSpecial);
 
   // generate an array of all the valid characters based on the input
